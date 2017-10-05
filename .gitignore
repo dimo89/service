@@ -1,0 +1,17 @@
+node_modules
+node_modules/*
+logs
+*.log
+.DS_Store
+.node_env
+pids
+.vscode/
+*.pid
+*.seed
+lib-cov
+build/*
+.lock-wscript
+.idea
+public/*
+!public/.gitkeep
+!public/images
